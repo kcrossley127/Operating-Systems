@@ -2,3 +2,5 @@ MacOS is a operating stsyem developed by apple, It runs on UNXI applications and
 that us mac users are using today is called the MacOS X it is the latest version of the mac operating system. 
 Memory managment is a operating system furntion, is a form of resorce to managment that is applied to computer memory a common error that 
 happens with this systm is a damaged, outdated or a incorrect video card driver. 
+Hardware is a collection of physical parts that control a computer system, like a keybpard, mouse input devices and many other output/input devices. It holds ontop software programs and other applicatins we use on a daily bases. It is the brains of what we see on
+our screen. 
